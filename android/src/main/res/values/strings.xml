@@ -1,0 +1,3 @@
+<resources>
+    <string name="flutter_btn">主动向Flutter发送消息</string>
+</resources>
